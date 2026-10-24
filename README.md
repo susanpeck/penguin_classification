@@ -29,4 +29,4 @@ streamlit run app.py
 
 ## Live app
 
-Add the public Streamlit link here after deployment.
+https://penguinclassification-knn.streamlit.app/
